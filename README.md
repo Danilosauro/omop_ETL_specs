@@ -1,1 +1,1 @@
-To Integrate an Mapping process between players. 
+To Integrate the Mapping process between players. 
